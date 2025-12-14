@@ -1,0 +1,188 @@
+﻿Log file open, 12/14/25 16:05:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll' does not exist
+LogProfilingDebugging: Error: Failed to get WinPixEventRuntime.dll handle: 系统找不到指定的路径。 (3)
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogStats: Stats thread started at 0.012525
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-C76995894E7FA9E3C95C93B71C65A989
+         Session CrashGUID >====================================================
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' does not exist
+LogConfig: No local boot hotfix file found at: [../../../Engine/Programs/FileSlate/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogInit: ExecutableName: FileSlate.exe
+LogInit: Build: UE5-CL-0
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=fa0117d147dcc45fc1d96a98a0bec5e5
+LogInit: DeviceId=
+LogInit: Engine Version: 5.5.4-0+UE5
+LogInit: Compatible Engine Version: 5.5.0-0+UE5
+LogInit: Net CL: 0
+LogInit: OS: Windows 11 (24H2) [10.0.26100.7171] (), CPU: AMD Ryzen 9 7940H w/ Radeon 780M Graphics     , GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+LogInit: Compiled (64-bit): Dec 14 2025 14:06:59
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.38.33145.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: UE5
+LogInit: Command Line: "G:\File\Engine\Binaries\Win64\FilePrograms\FileSlate.exe" 
+LogInit: Base Directory: G:/File/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 0
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 170
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 13
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 15
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 119
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+LogInit: Computer: X
+LogInit: User: zcp
+LogInit: CPU Page size=4096, Cores=8
+LogInit: High frequency timer resolution =10.000000 MHz
+LogMemory: Process is running as part of a Windows Job with separate resource limits
+LogMemory: Memory total: Physical=15.2GB (16GB approx) Virtual=41.2GB
+LogMemory: Platform Memory Stats for WindowsEditor
+LogMemory: Process Physical Memory: 36.82 MB used, 37.64 MB peak
+LogMemory: Process Virtual Memory: 82.76 MB used, 82.76 MB peak
+LogMemory: Physical Memory: 13577.38 MB used,  2007.71 MB free, 15585.09 MB total
+LogMemory: Virtual Memory: 25519.91 MB used,  16689.19 MB free, 42209.09 MB total
+LogAssetRegistry: FAssetRegistry took 0.0000 seconds to start up
+LogUObjectArray: 901 objects as part of root set at end of initial load.
+LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+LogPaths: Warning: No paths for game localization data were specifed in the game configuration.
+LogInit: Using OS detected language (zh-CN).
+LogInit: Using OS detected locale (zh-CN).
+LogInit: Warning: No paths for engine localization data were specifed in the engine configuration.
+LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+LogInit: Using OS detected language (zh-CN).
+LogInit: Using OS detected locale (zh-CN).
+LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000083 seconds
+LogSlate: Using FreeType 2.10.0
+LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+LogWindowsTextInputMethodSystem: Available input methods:
+LogWindowsTextInputMethodSystem:   - 简体中文(中国大陆) - 微软拼音 (TSF IME).
+LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+LogInit: Setting process to per monitor DPI aware
+LogSlate: New Slate User Created. Platform User Id 0, User Index 0, Is Virtual User: 0
+LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+LogStandaloneRenderer: D3D11 adapters settings:
+LogStandaloneRenderer: D3D11 adapters:
+LogStandaloneRenderer: Testing D3D11 adapter: 0. Description: 'NVIDIA GeForce RTX 4060 Laptop GPU'. VendorId: 10de. DeviceId: 28e0.
+LogStandaloneRenderer:   0. 'NVIDIA GeForce RTX 4060 Laptop GPU'. Feature level: 11_1
+LogStandaloneRenderer: Testing D3D11 adapter: 1. Description: 'AMD Radeon 780M Graphics'. VendorId: 1002. DeviceId: 15bf.
+LogStandaloneRenderer:   1. 'AMD Radeon 780M Graphics'. Feature level: 11_1
+LogStandaloneRenderer: Testing D3D11 adapter: 2. Description: 'Microsoft Basic Render Driver'. VendorId: 1414. DeviceId: 008c.
+LogStandaloneRenderer:   2. 'Microsoft Basic Render Driver'. Feature level: 11_1
+LogStandaloneRenderer:   Skip adapter.
+LogStandaloneRenderer: Testing D3D11 adapter: 3. Description: 'AMD Radeon 780M Graphics'. VendorId: 1002. DeviceId: 15bf.
+LogStandaloneRenderer:   3. 'AMD Radeon 780M Graphics'. Feature level: 11_1
+LogStandaloneRenderer: Testing D3D11 adapter: 4. Description: 'AMD Radeon 780M Graphics'. VendorId: 1002. DeviceId: 15bf.
+LogStandaloneRenderer:   4. 'AMD Radeon 780M Graphics'. Feature level: 11_1
+LogStandaloneRenderer: Selected D3D11 Description: 'NVIDIA GeForce RTX 4060 Laptop GPU'. VendorId: 10de. DeviceId: 28e0.
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Run.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Run.png] '../../../Engine/Content/Slate/Launcher/Launcher_Run.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_EditSettings.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_EditSettings.png] '../../../Engine/Content/Slate/Launcher/Launcher_EditSettings.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Back.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Back.png] '../../../Engine/Content/Slate/Launcher/Launcher_Back.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Back.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Back.png] '../../../Engine/Content/Slate/Launcher/Launcher_Back.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Delete.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Delete.png] '../../../Engine/Content/Slate/Launcher/Launcher_Delete.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Instance_Commandlet.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Instance_Commandlet.png] '../../../Engine/Content/Slate/Launcher/Instance_Commandlet.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Instance_Editor.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Instance_Editor.png] '../../../Engine/Content/Slate/Launcher/Instance_Editor.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Instance_Game.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Instance_Game.png] '../../../Engine/Content/Slate/Launcher/Instance_Game.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Instance_Other.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Instance_Other.png] '../../../Engine/Content/Slate/Launcher/Instance_Other.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Instance_Server.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Instance_Server.png] '../../../Engine/Content/Slate/Launcher/Instance_Server.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Instance_Unknown.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Instance_Unknown.png] '../../../Engine/Content/Slate/Launcher/Instance_Unknown.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Deploy.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Deploy.png] '../../../Engine/Content/Slate/Launcher/Launcher_Deploy.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Build.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Build.png] '../../../Engine/Content/Slate/Launcher/Launcher_Build.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png] '../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png] '../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png] '../../../Engine/Content/Slate/Launcher/Launcher_Advanced.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/All_Platforms_24x.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/All_Platforms_24x.png] '../../../Engine/Content/Slate/Launcher/All_Platforms_24x.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/All_Platforms_128x.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/All_Platforms_128x.png] '../../../Engine/Content/Slate/Launcher/All_Platforms_128x.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Slate/Launcher/All_Platforms_128x.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Slate/Launcher/All_Platforms_128x.png] '../../../Engine/Content/Slate/Launcher/All_Platforms_128x.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/SlateReflector/FocusPicking_24x.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Editor/Slate/Icons/SlateReflector/FocusPicking_24x.png] '../../../Engine/Content/Editor/Slate/Icons/SlateReflector/FocusPicking_24x.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/GeneralTools/Select_40x.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Editor/Slate/Icons/GeneralTools/Select_40x.png] '../../../Engine/Content/Editor/Slate/Icons/GeneralTools/Select_40x.png'
+LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/GeneralTools/Paint_40x.png' error.
+LogSlateD3D: Warning: Could not find file for Slate resource: [../../../Engine/Content/Editor/Slate/Icons/GeneralTools/Paint_40x.png] '../../../Engine/Content/Editor/Slate/Icons/GeneralTools/Paint_40x.png'
+LogSlate: Warning: FTabManager::RestoreFrom(): RestoreAreaOutputCanBeNullptr was set to EOutputCanBeNullptr::Never but RestoreFrom() is returning nullptr. I.e., the PrimaryDockArea could not be created. If returning nullptr is possible, set RestoreAreaOutputCanBeNullptr to an option that could return nullptr (e.g., IfNoTabValid, IfNoOpenTabValid). This code might ensure(false) or even check(false) in the future.
+LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+LogSlate: Took 0.001141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+LogSlate: Request Window '代码' being destroyed
+LogSlate: Window '代码' being destroyed
+LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+LogCore: Engine exit requested (reason: Normal Slate Window Closed)
+LogSlate: Request Window '代码' being destroyed
+LogSlate: Window '代码' being destroyed
+LogCore: Engine exit requested (reason: Normal Slate Window Closed; note: exit was already requested)
+LogExit: Preparing to exit.
+LogExit: Object subsystem successfully closed.
+LogSlate: Request Window '' being destroyed
+LogCore: Engine exit requested (reason: Normal Slate Window Closed; note: exit was already requested)
+LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+LogExit: Exiting.
+Log file closed, 12/14/25 16:05:12
